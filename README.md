@@ -21,4 +21,4 @@ Frontend: React · Next.js · TypeScript · Tailwind · React Native Backend: No
 
 Find me
 
-🌐 dawit.store — full portfolio (36 projects) 💼 LinkedIn 📧 dawitggtw@gmail.com
+🌐 dawit.store — full portfolio (36 projects) 💼 LinkedIn - https://www.linkedin.com/in/dawit-girma-71bb31225 📧 dawitggtw@gmail.com
